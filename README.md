@@ -1,7 +1,8 @@
+![ cover photo info](assets/mainBanner.png)
+
 ### Hi My name is Nader 👋
 
-
-- 🔭 I’m currently working on our company's mobile app using react native and really loving it. 
+- 🔭 I’m currently working on our company's mobile app using react native and really loving it.
 - 🌱 I’m currently learning more advanced react native techniques.
 
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
@@ -9,7 +10,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-lightgrey)
 ![](https://visitor-badge.glitch.me/badge?page_id=naderalfakesh.naderalfakesh)
-
 
 ![Nader's GitHub stats](https://github-readme-stats.vercel.app/api?username=naderalfakesh&count_private=true&show_icons=true&theme=material-palenight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats?layout=compact)
@@ -26,4 +26,3 @@
 ![node](https://img.shields.io/badge/Node-000000?style=for-the-badge&logo=Node.js&logoColor=#339933)
 ![typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=#3178C6)
 ![bitrise](https://img.shields.io/badge/Bitrise-000000?style=for-the-badge&logo=Bitrise&logoColor=#683D87)
-
