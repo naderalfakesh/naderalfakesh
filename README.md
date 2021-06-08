@@ -1,14 +1,11 @@
 ![ cover photo info](assets/mainBanner.png)
 
-### Hi My name is Nader 👋
+### Hello My name is Nader Alfakesh 👋
 
-- 🔭 I’m currently working on our company's mobile app using react native and really loving it.
-- 🌱 I’m currently learning more advanced react native techniques.
+I work as a frontend developer for a SAAS startup in Istanbul, Turkey.
+I have a passion for programing especially frontend development, Recently I am focused on mobile development with react native and I love it.
+I am trying to get more involved in open source community hoping that I can add real value to inspiring projects.
 
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-lightgrey)
 ![](https://visitor-badge.glitch.me/badge?page_id=naderalfakesh.naderalfakesh)
 
 ![Nader's GitHub stats](https://github-readme-stats.vercel.app/api?username=naderalfakesh&count_private=true&show_icons=true&theme=material-palenight)
