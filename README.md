@@ -1,5 +1,3 @@
-![ cover photo info](assets/mainBanner.png)
-
 ### Hello My name is Nader Alfakesh 👋
 
 I work as a frontend developer for a SAAS startup in Istanbul, Turkey.
