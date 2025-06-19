@@ -18,12 +18,11 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-0088CC?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-4A90E2?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-8B5A2B?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 ---
@@ -39,7 +38,7 @@
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nadir-alfakesh/)
-- 📧 Email: [youremail@example.com](mailto:nader.alfakesh@example.com)
+- 📧 Email: [nader.alfakesh@gmail.com](mailto:nader.alfakesh@gmail.com)
 
 ---
 
